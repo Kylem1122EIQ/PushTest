@@ -1,0 +1,4 @@
+"BooleanWritable","Boolean"
+"NumericWritable","Numeric"
+"EnumWritable","Enum"
+"StringWritable","String"
